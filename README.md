@@ -1,4 +1,4 @@
-# 👀 About Me
+# 💫 About Me
 👋 Hi, I’m Jeet Bobde
 I'm passionate about Artificial Intelligence, Machine Learning, and Software Development. I love working on AI-driven projects and exploring cutting-edge technologies.
 
