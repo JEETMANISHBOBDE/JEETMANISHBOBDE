@@ -17,8 +17,8 @@ Java-based software solutions
 
 📫 How to Reach Me
 📧 Email: jmbobde99@gmail.com
-💼 LinkedIn: https://www.linkedin.com/in/jeet-manish-bobde-748a2a290/
-🌐 Portfolio: 
+💼 LinkedIn: https://www.linkedin.com/in/jeetmanishbobde/
+🌐 Portfolio: https://jeetbobde-portfolio.vercel.app/
 
 ⚡ Fun Fact
 I did my internship at Agnirva Space Internship Program and I love exploring AI applications in space tech! 🚀
